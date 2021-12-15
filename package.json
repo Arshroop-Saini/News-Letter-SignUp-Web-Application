@@ -1,0 +1,17 @@
+{
+  "name": "sign-upform-web-application",
+  "version": "1.0.0",
+  "description": "This is a web application which would help the users to sighn up to the Newsletters very easily",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arshroop Singh Saini",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15",
+    "request": "^2.88.2"
+  }
+}
